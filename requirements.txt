@@ -1,0 +1,14 @@
+# === data engineer ===
+pyspark
+pandas
+boto3
+
+# ==== api ===
+fastapi
+uvicorn
+
+# === Mkdocs ===
+mkdocs
+mkdocs-material
+pymdown-extensions
+mkdocs-awesome-pages-plugin

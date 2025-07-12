@@ -1,0 +1,56 @@
+site_name: data engineer
+site_description: data engineer
+site_author: Manisha
+docs_dir: docs
+
+
+# ======== mkdocs serve
+nav:
+  - Home: readme.md
+  - tab1:
+    - page1: page1.md
+    - page2: page2.md
+
+
+# ========
+
+
+
+theme:
+  name: material
+  features:
+    - navigation.tracking          # Enables breadcrumbs
+    - navigation.tabs              # Optional: if using tabs layout
+    - navigation.top               # Scroll-to-top button
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.footer            # Enables next/previous at bottom
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: pink
+  custom_dir: .
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lekhrajdinkar
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/lekhraj-dinkar-25872140/
