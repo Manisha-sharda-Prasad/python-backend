@@ -2,6 +2,8 @@
 pyspark
 pandas
 boto3
+databricks-cli
+
 
 # ==== api ===
 fastapi
