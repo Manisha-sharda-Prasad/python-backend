@@ -1,27 +1,40 @@
 #🔹 4. Functions (def, return, parameters)------------
+
 #✅ Basic Function:
 
 def greet():
     print("Hello!")
+greet()                     # Output: Hello!
 
-greet()             # Output: Hello!
+
+abc = 25                    # global/outer var
+
+def numb():
+    #abc = 10                #inner var
+    print(10)                # or print(10)
+
+numb()              #10
+print(abc)          #25
 
 #✅ Function with Parameters:
+
 def greet(name)-> None:
     print("Hello,", name)
 
 #✅ Function with Parameters + default values:
+
 def greet2(name="Guest"):
     print("Hello", name)
 
 #✅ Function with Return Value:
+
 def add(a, b):
     return a + b
 
 def multiply(x,y):
     return x * y
 
-
+#----------------------------------------------------------------
 print('\n🟪',"="*20, 'topic-3 :: function', '='*20)
 
 print("➡️testing function 1 : greet")
