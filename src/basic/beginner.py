@@ -1,7 +1,18 @@
 #🔹 1. Variables, Data Types, Input/Output--------------
-#✅ Data Types:
-#int, float, str, bool, list, tuple, dict, set.
 
+#✅ Data Types:
+
+"""
+*int, float, str, bool, list, tuple, dict, set.
+Text Type:	    str
+Numeric Types:	int, float, complex(j)
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	    set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memory-view
+None Type:	    NoneType
+"""
 #✅ Variables:
 # Variables are used to store data.
 
@@ -98,3 +109,33 @@ for i in range(-8, -1, 1): # -10 to -2
     print(i)
 
 
+# ---------Type Conversion-----------
+print('🔸--Type Conversion  -- ')
+x = 1   #int
+y = 3.5 #float
+z = 5j  #complex
+
+a = float(x)
+b = complex(y)
+c = int(x)
+
+print(a, b, c)
+print(type(a), type(b), type(c))
+
+# ---------Casting-----------
+print('🔸--Casting  -- ')
+#Integer:
+k = int(1)      #  1
+l = int(2.8)    #  2
+m = int("3")    #  3
+
+#Floats:
+n = float(1)     #  1.0
+o = float(2.8)   #  2.8
+p = float("3")   #  3.0
+q = float("4.2")
+
+#Strings:
+r = str("s1")
+s = str(2)         #'2'
+t = str(3.0)
