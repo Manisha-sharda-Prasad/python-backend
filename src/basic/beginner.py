@@ -13,6 +13,7 @@ Boolean Type:	bool
 Binary Types:	bytes, bytearray, memory-view
 None Type:	    NoneType
 """
+
 #✅ Variables:
 # Variables are used to store data.
 
@@ -124,10 +125,13 @@ print(type(a), type(b), type(c))
 
 # ---------Casting-----------
 print('🔸--Casting  -- ')
+
 #Integer:
 k = int(1)      #  1
 l = int(2.8)    #  2
 m = int("3")    #  3
+
+print(type(k), type(l), type(m))
 
 #Floats:
 n = float(1)     #  1.0
@@ -139,3 +143,4 @@ q = float("4.2")
 r = str("s1")
 s = str(2)         #'2'
 t = str(3.0)
+
