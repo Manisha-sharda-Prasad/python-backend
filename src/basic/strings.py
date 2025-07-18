@@ -39,6 +39,11 @@ txt = f"My name is John, I am {age}"
 print(txt)
 
 # Placeholders and Modifiers
+#placeholder can contain vars, operations, functions,modifiers to format the value.
+
 price = 59
-txt = f"The price is {price} dollars"
+txt = f"Your final price with coupon is {price - 5} dollars"
 print(txt)
+txt = f"Your final price with coupon is {price :.2f} dollars"  # 2 decimals = 59.00 / .3f = 59.000
+print(txt)
+
