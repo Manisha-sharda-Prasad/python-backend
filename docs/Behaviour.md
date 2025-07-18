@@ -10,8 +10,6 @@ Action: Highlight what you did—steps and thought process.
 
 Result: Emphasize outcomes, ideally measurable, and lessons learned.
 
-
-
 ## 1.  Yourself / Future / Hire / Strengths / Weaknesses :
 Category	- Self-awareness & Motivation	
 Testing	    - Communication, self-reflection, career goals
@@ -38,43 +36,43 @@ R - Blaming others, being vague
 - "I proved them wrong", sounding combative
 
 ## 5. Deadline / Missed Plan	
-Time Management	
-Planning, resilience	
-Be transparent, describe corrective action	
-Making excuses, not showing improvement
+- Time Management	
+- Planning, resilience	
+- Be transparent, describe corrective action	
+- Making excuses, not showing improvement
 
 ## Context switching / Prioritizing	
-Adaptability	
-Focus, efficiency under pressure	
-Mention task management tools/process	
-“got overwhelmed/ dropped tasks”
+- Adaptability	
+- Focus, efficiency under pressure	
+- Mention task management tools/process	
+- “got overwhelmed/ dropped tasks”
 
 ## Calculated Risk (System Perf / Space-Time / Speed)	
-Judgment under Uncertainty	
-Trade-offs, performance, scalability	
-Show technical thought process + metrics	
-Blind risk-taking without mitigation
+- Judgment under Uncertainty	
+- Trade-offs, performance, scalability	
+- Show technical thought process + metrics	
+- Blind risk-taking without mitigation
 
 ## Complex Problem / Logic / Simplify	
-Problem Solving	
-Systems thinking, coding maturity	
-Break down big problem, explain simplification	
-Overcomplicating; vague logic
+- Problem Solving	
+- Systems thinking, coding maturity	
+- Break down big problem, explain simplification	
+- Overcomplicating; vague logic
 
 ## Learning Style	
-Growth & Curiosity 	
-Learning ability, adaptability, updated 	
-Example of fast learning (new tech, stack)	
-"I just Google everything / ask chatgpt" with no structure
+- Growth & Curiosity 	
+- Learning ability, adaptability, updated 	
+- Example of fast learning (new tech, stack)	
+- "I just Google everything / ask chatgpt" with no structure
 
 ## Delivered Project / SDLC	
-Execution	
-Project planning, SDLC ownership	
-Use a full lifecycle story (from idea to release)	
-Over-crediting self not showing  team efforts
+- Execution	
+- Project planning, SDLC ownership	
+- Use a full lifecycle story (from idea to release)	
+- Over-crediting self not showing  team efforts
 
 ## Extra Responsibility	(senior/ junior/ colleague)
-Initiative	
-Leadership motivation, Independent, switch roles, multitask	
-Volunteer task, positive result, team benefit	
-Bragging too much without outcome
+- Initiative	
+- Leadership motivation, Independent, switch roles, multitask	
+- Volunteer task, positive result, team benefit	
+- Bragging too much without outcome
