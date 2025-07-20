@@ -32,12 +32,12 @@ Result: Emphasize outcomes, ideally measurable, and lessons learned.
 - T - Growth mindset, responsibility
 - A - Take ownership, explain fix & lesson learned , Use failure to highlight personal growth
 - R - Blaming others, being vague
-- 
+
 ## 3.1 Negative feedback :
 - Self-awareness, ability to accept and act on criticism	
 - A real example → how you processed it → changes you made → result	
 - Getting defensive, blaming the feedback-giver, ignoring the advice
-- 
+
 ## 4.Disagree/ Team Conflict (junior/senior/manager/client feedback)	
 - C - Conflict Resolution	
 - T - Communication, collaboration, Mentorship, leadership, handling opinions, 
