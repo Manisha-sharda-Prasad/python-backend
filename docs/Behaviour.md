@@ -1,7 +1,7 @@
-# Choose Your Stories (2-2 stories for each category)
-# highlight key skills: problem‑solving, teamwork, ownership.
-# Honest & Balanced( Don’t sugarcoat, Avoid dishing dirt )
-# Use the STAR Framework:
+## Choose Your Stories (2-2 stories for each category)
+## highlight key skills: problem‑solving, teamwork, ownership.
+## Honest & Balanced( Don’t sugarcoat, Avoid dishing dirt )
+## Use the STAR Framework:
 Situation: Briefly set the scene.
 
 Task: Clarify your role or goal.
