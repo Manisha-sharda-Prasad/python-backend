@@ -1,7 +1,7 @@
-## Choose Your Stories (2-2 stories for each category)
-## highlight key skills: problem‑solving, teamwork, ownership.
-## Honest & Balanced( Don’t sugarcoat, Avoid dishing dirt )
-## Use the STAR Framework:
+## - Choose Your Stories (2-2 stories for each category)
+## - highlight key skills: problem‑solving, teamwork, ownership.
+## - Honest & Balanced( Don’t sugarcoat, Avoid dishing dirt )
+## - Use the STAR Framework:
 Situation: Briefly set the scene.
 
 Task: Clarify your role or goal.
@@ -16,7 +16,7 @@ Result: Emphasize outcomes, ideally measurable, and lessons learned.
 - Approach	- Honest reflection + link to role/company, embrace challenges
 - Red Flags - (“I work too hard”), arrogance, unclear goal
 
-## See yourself in future years?		
+## 1.1 See yourself in future years?		
 - Testing   - Career direction, ambition, plans	
 - Approach  - Tie goals to company/asset, useful, team growth, 	
 - Red Flags - Unrelated career plans
@@ -33,7 +33,7 @@ Result: Emphasize outcomes, ideally measurable, and lessons learned.
 - A - Take ownership, explain fix & lesson learned , Use failure to highlight personal growth
 - R - Blaming others, being vague
 - 
-## Negative feedback :
+## 3.1 Negative feedback :
 - Self-awareness, ability to accept and act on criticism	
 - A real example → how you processed it → changes you made → result	
 - Getting defensive, blaming the feedback-giver, ignoring the advice
