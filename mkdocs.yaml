@@ -3,18 +3,28 @@ site_description: data engineer
 site_author: Manisha
 docs_dir: docs
 
-
 # ======== mkdocs serve
+
 nav:
   - Home: readme.md
-  - tab1:
-    - page1: page1.md
-    - page2: page2.md
+  - Interview:
+      - Behaviour:
+          - 🔹00_behaviour: interview/behaviour/00_behaviour.md
+          - 🔹01_Adaptability+Resilience : interview/behaviour/01_Adaptability+Resilience.md
+          - 🔹02_SelfAware+Motivation: interview/behaviour/02_SelfAware&Motivation.md
+          - 🔹03_TrustRelationship: interview/behaviour/03_TrustRelationship.md
+          - 🔹04_teamwork: interview/behaviour/04_Teamwork & Collaboration.md
+          - 🔹05_leadership: interview/behaviour/05_Leadership & Ownership.md
+  - GenAI:
+      - Learning:
+          - 🔹2025: genAI/learning/2025.md
+          - 🔹2024: genAI/learning/2024.md
+      #- projects:
+
+
 
 
 # ========
-
-
 
 theme:
   name: material

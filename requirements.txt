@@ -9,7 +9,7 @@ databricks-cli
 fastapi
 uvicorn
 
-# === Mkdocs ===
+# === documnetation : Mkdocs ===
 mkdocs
 mkdocs-material
 pymdown-extensions
