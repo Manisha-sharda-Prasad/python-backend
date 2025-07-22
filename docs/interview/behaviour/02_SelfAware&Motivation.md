@@ -1,4 +1,4 @@
-## tip
+## Tip:
 - Choose Your Stories (2-2 stories for each category)
 - highlight key skills: **problem‑solving, teamwork, ownership**.
 - Honest & Balanced( Don’t sugarcoat, Avoid dishing dirt )
@@ -15,7 +15,7 @@ Result: Emphasize outcomes, ideally measurable, and lessons learned.
 
 ## ❇️about me
 
-### 1. Yourself/Future /Hire /Strengths /Weaknesses
+### 1. About Yourself/Future /Hire /Strengths /Weaknesses
 - Category	- Self-awareness & Motivation	
 - Testing	- Communication, self-reflection, career goals
 - Approach	- Honest reflection + link to role/company, embrace challenges
