@@ -33,6 +33,13 @@ Result: Emphasize outcomes, ideally measurable, and lessons learned.
 - A real example → how you processed it → changes you made → result	
 - Getting defensive, blaming the feedback-giver, ignoring the advice
 
+### 4. Why do you want to work at (Apple/Amazon /Google /Meta /OpenAI)? 
+- Awareness, Motivation & Culture Fit  
+- Alignment with company’s mission, values, and work 
+- Reference specific products, values, tech challenges 
+- Generic answers ("It's a big company"), no research 
 
+ ✅ Example: “I admire Amazon’s obsession with customer experience. I’m excited about working in a fast-paced,
+ownership-driven culture where I can contribute to scalable backend services.” |
 
 

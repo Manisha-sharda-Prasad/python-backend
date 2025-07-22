@@ -16,8 +16,26 @@
 - Break down big problem, explain simplification	
 - Overcomplicating; vague logic
 
-### 4.Deadline /Missed Plan	
+### 4. Deadline /Missed Plan	
 - Time Management	
 - Planning, resilience	
 - Be transparent, describe corrective action	
 - Making excuses, not showing improvement
+
+### 5. Describe a technical challenge you overcame. 
+- Technical Depth & Problem-Solving 
+- Debugging, persistence 
+- Explain challenge → steps taken → what made it tough → final result 
+- Glossing over details 
+
+### 6. What would you do if your team is blocking you? 
+- Ownership & Communication 
+- Problem-solving, communication 
+- Attempt unblocking → raise appropriately → suggest alt plans 
+- Complaining, escalation without ownership 
+
+ ✅ Approach: “I’d try to clarify expectations or dependencies, offer help to unblock, 
+and if still stuck, raise it in our stand-up or escalate respectfully with alternatives.” 
+
+
+
