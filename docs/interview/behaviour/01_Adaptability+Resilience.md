@@ -20,5 +20,14 @@
 ✅ Approach: “I underestimated testing time for a module, which caused a delay. 
 I took accountability, informed clients, and created a reusable testing checklist we now use across the team”
 
+### 4. Time you overcame adversity (difficulty or misfortune). 
+- Resilience & Attitude 
+- Mental toughness, determination 
+- What challenge → what actions → what mindset helped 
+- Sounding like a victim or too emotional |
+
+✅ Example: “I had to ship a feature alone when my teammate left mid-sprint. 
+I reorganized priorities, focused on critical paths, and delivered on time.” 
+
 
 

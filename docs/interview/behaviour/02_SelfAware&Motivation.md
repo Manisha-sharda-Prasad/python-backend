@@ -43,3 +43,24 @@ Result: Emphasize outcomes, ideally measurable, and lessons learned.
 ownership-driven culture where I can contribute to scalable backend services.” |
 
 
+### 5. What is your biggest failure? 
+- Self-Awareness & Growth 
+- Reflection, improvement 
+- Real failure → take responsibility → show transformation 
+- “I don’t have one”, or blaming others 
+
+ ✅ Example: “In my first leadership task, I failed to delegate properly and burned out. 
+ I learned to trust the team and now use better planning and check-ins.”
+ 
+### 6. What parts of OpenAI’s mission statement resonate with you?
+- C  - Motivation / Mission Alignment
+- T - Alignment with OpenAI's goals, values, long-term thinking, interest in responsible AI
+- A - Study the OpenAI mission statement: “Ensure that artificial general intelligence (AGI) benefits all of humanity.”
+- R - Being vague (“I like AI”), Not being familiar with OpenAI’s values (e.g., long-term safety, cooperative orientation)
+
+✅ Example:
+- Pick 2–3 elements (e.g., safety, accessibility, transparency, impact on humanity) that connect with you personally or technically.
+- “ What resonates most with me is the commitment to ensuring AGI benefits all of humanity, not just a select few.
+- I care deeply about the ethical implications of AI, especially as systems become more powerful. 
+- The fact that OpenAI is prioritizing safety and cooperative deployment shows a level of responsibility I admire. 
+- I also value the openness — I’ve followed your published research on reinforcement learning and language models closely.”

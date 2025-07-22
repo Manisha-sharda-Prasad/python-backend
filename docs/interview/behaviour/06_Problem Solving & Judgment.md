@@ -38,4 +38,8 @@
 and if still stuck, raise it in our stand-up or escalate respectfully with alternatives.” 
 
 
-
+### 7. Describe a challenging project and what made it difficult. 
+- Problem Solving & Execution 
+- Complexity, planning 
+- Scope, time, tech, or stakeholder complexity → how you navigated it 
+- Blaming the project/team 
