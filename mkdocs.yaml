@@ -9,12 +9,10 @@ nav:
   - Home: readme.md
   - Interview:
       - Behaviour:
-          - 🔹00_behaviour: interview/behaviour/00_behaviour.md
-          - 🔹01_Adaptability+Resilience : interview/behaviour/01_Adaptability+Resilience.md
-          - 🔹02_SelfAware+Motivation: interview/behaviour/02_SelfAware&Motivation.md
-          - 🔹03_TrustRelationship: interview/behaviour/03_TrustRelationship.md
-          - 🔹04_teamwork: interview/behaviour/04_Teamwork & Collaboration.md
-          - 🔹05_leadership: interview/behaviour/05_Leadership & Ownership.md
+          - 🔹behaviour: interview/behaviour/00_behaviour.md
+          - 🔹Adaptability+Resilience : interview/behaviour/01_Adaptability+Resilience.md
+          - 🔹SelfAware+Motivation: interview/behaviour/02_SelfAware+Motivation.md
+          - 🔹TrustRelationship: interview/behaviour/03_TrustRelationship.md
   - GenAI:
       - Learning:
           - 🔹2025: genAI/learning/2025.md
